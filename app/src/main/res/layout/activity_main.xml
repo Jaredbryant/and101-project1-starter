@@ -37,7 +37,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                tools:text="@string/full_name"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
